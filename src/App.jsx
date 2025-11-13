@@ -13,6 +13,11 @@ function App() {
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor non eius dolorem eveniet perferendis ab repellendus illum exercitationem omnis consectetur nisi aliquam explicabo, libero dicta ad ratione facere officia porro.
       </p>
       </div>
+      <div>
+        <p>
+          Hello world
+        </p>
+      </div>
       </section>
       
     </>
